@@ -18,4 +18,5 @@ The following command starts the Locust dashboard and executes the script in `lo
 
 ```bash
 locust -f locustfile.py
+dashboard will be hosted on http://0.0.0.0:8089
 ```
